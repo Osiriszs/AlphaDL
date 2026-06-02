@@ -1,0 +1,47 @@
+{
+  "job_id": "api_2e88821045714360952cb8a1",
+  "mode": "zip_split",
+  "file_url": "https://free-dl10.myalphadl.com/1jCAPTTZdwNFh_Hc9IloNg/Celeste.And.Jesse.Forever.2012.720p.Ganooll..AlphaDL.mkv",
+  "suggested_filename": "Celeste.And.Jesse.Forever.2012.720p.Ganooll..AlphaDL.mkv",
+  "total_size_bytes": 627803415,
+  "created_at_utc": "2026-06-02T09:04:19.212655+00:00",
+  "zip_folder": "jobs/api_2e88821045714360952cb8a1/zip",
+  "zip_main_file": "Celeste.And.Jesse.Forever.2012.720p.Ganooll..AlphaDL_split.zip",
+  "zip_parts": [
+    {
+      "name": "Celeste.And.Jesse.Forever.2012.720p.Ganooll..AlphaDL_split.z01",
+      "path": "jobs/api_2e88821045714360952cb8a1/zip/Celeste.And.Jesse.Forever.2012.720p.Ganooll..AlphaDL_split.z01",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Celeste.And.Jesse.Forever.2012.720p.Ganooll..AlphaDL_split.z02",
+      "path": "jobs/api_2e88821045714360952cb8a1/zip/Celeste.And.Jesse.Forever.2012.720p.Ganooll..AlphaDL_split.z02",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Celeste.And.Jesse.Forever.2012.720p.Ganooll..AlphaDL_split.z03",
+      "path": "jobs/api_2e88821045714360952cb8a1/zip/Celeste.And.Jesse.Forever.2012.720p.Ganooll..AlphaDL_split.z03",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Celeste.And.Jesse.Forever.2012.720p.Ganooll..AlphaDL_split.z04",
+      "path": "jobs/api_2e88821045714360952cb8a1/zip/Celeste.And.Jesse.Forever.2012.720p.Ganooll..AlphaDL_split.z04",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Celeste.And.Jesse.Forever.2012.720p.Ganooll..AlphaDL_split.z05",
+      "path": "jobs/api_2e88821045714360952cb8a1/zip/Celeste.And.Jesse.Forever.2012.720p.Ganooll..AlphaDL_split.z05",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Celeste.And.Jesse.Forever.2012.720p.Ganooll..AlphaDL_split.z06",
+      "path": "jobs/api_2e88821045714360952cb8a1/zip/Celeste.And.Jesse.Forever.2012.720p.Ganooll..AlphaDL_split.z06",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Celeste.And.Jesse.Forever.2012.720p.Ganooll..AlphaDL_split.zip",
+      "path": "jobs/api_2e88821045714360952cb8a1/zip/Celeste.And.Jesse.Forever.2012.720p.Ganooll..AlphaDL_split.zip",
+      "size_bytes": 61572641
+    }
+  ]
+}
